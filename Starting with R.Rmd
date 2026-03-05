@@ -77,3 +77,4 @@ interviews <- read_csv(
 
 ```
 
+Link to screenshot of R studio: R studio screenshot.png
